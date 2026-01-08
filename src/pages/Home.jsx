@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { base44 } from '@/api/base44Client';
 import { Button } from "@/components/ui/button";
 import { Plane, Settings, ArrowLeft, ArrowRight, Loader2 } from "lucide-react";
 import { createPageUrl } from '@/utils';
