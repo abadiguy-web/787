@@ -2,8 +2,6 @@ import Layout from "./Layout.jsx";
 
 import Home from "./Home";
 
-import ManageQuestions from "./ManageQuestions";
-
 import QuestionEditor from "./QuestionEditor";
 
 import EnterCode from "./EnterCode";
